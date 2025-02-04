@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkradio"]=self["webpackChunkradio"]||[]).push([[594],{603:function(n,u,a){a.r(u),a.d(u,{default:function(){return o}});var r=a(6768);const t={class:"about"};function e(n,u){return(0,r.uX)(),(0,r.CE)("div",t,u[0]||(u[0]=[(0,r.Lk)("h1",null,"This is an about page",-1)]))}var s=a(1241);const c={},i=(0,s.A)(c,[["render",e]]);var o=i}}]);
+//# sourceMappingURL=about.45bb9f4b.js.map
